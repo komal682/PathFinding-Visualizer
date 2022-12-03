@@ -1,0 +1,29 @@
+.grid {
+    margin: 100px 0 0;
+    text-align: center;
+  }
+.btn{
+    color: black;
+    background-color:  #CDF0EA;
+    font-size: large;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: none;
+    margin: 0cm;
+    position: absolute;
+    left: 80%;
+    transition-duration: 0.4s;
+}
+
+.btn :hover {
+    color: rgb(159, 167, 167);
+}
+
+.header {
+    background-color: #CDF0EA;
+    height: 1cm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    padding-top: 0.6cm;
+    padding-bottom: 0.4cm;
+}
